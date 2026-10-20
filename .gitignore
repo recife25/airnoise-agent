@@ -1,0 +1,12 @@
+cat << 'EOF' > .gitignore
+# Google API Credentials
+credentials.json
+token.json
+
+# Virtual Environment
+venv/
+
+# Logs and Data
+airnoise_log.csv
+*.log
+EOF

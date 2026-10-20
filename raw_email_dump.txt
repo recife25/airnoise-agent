@@ -1,0 +1,2581 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <style>
+      th { font-weight: bold; }
+      td.label { font-weight: bold; }
+    </style>
+  </head>
+
+  <body>
+    <p>Felipe ,</p>
+
+<p>This is a daily digest of Airnoise complaints you generated in the last 24 hours.</p>
+
+  <p>You generated <b>195 complaints</b>.</p>
+  <table>
+  <thead>
+    <th style="padding: 5px;text-align: left;">Time</th>
+    <th style="padding: 5px;text-align: left;">Complaint Type</th>
+    <th style="padding: 5px;text-align: left;">Airport</th>
+    <th style="padding: 5px;text-align: left;">Operation</th>
+    <th style="padding: 5px;text-align: left;">Aircraft</th>
+    <th style="padding: 5px;text-align: left;">Operator</th>
+    <th style="padding: 5px;text-align: left;">Callsign</th>
+    <th style="padding: 5px">Dist (mi)</th>
+    <th style="padding: 5px">Altitude</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 5px">11:33 am</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 767-332</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL636</td>
+      <td style="padding: 5px;text-align: right;">0.15</td>
+      <td style="padding: 5px;text-align: right;">
+        1425  [1409 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">11:36 am</td>
+      <td style="padding: 5px">Any Aircraft</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px"></td>
+      <td style="padding: 5px">---</td>
+      <td style="padding: 5px">---</td>
+      <td style="padding: 5px"></td>
+      <td style="padding: 5px;text-align: right;"></td>
+      <td style="padding: 5px;text-align: right;">
+        
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">11:38 am</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOMBARDIER INC CL-600-2D24</td>
+      <td style="padding: 5px">Endeavor Air</td>
+      <td style="padding: 5px">EDV5097</td>
+      <td style="padding: 5px;text-align: right;">0.71</td>
+      <td style="padding: 5px;text-align: right;">
+        1350  [1334 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">11:40 am</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A321-231</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU215</td>
+      <td style="padding: 5px;text-align: right;">0.84</td>
+      <td style="padding: 5px;text-align: right;">
+        2000  [1984 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">11:40 am</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 777-323ER</td>
+      <td style="padding: 5px">American Airlines</td>
+      <td style="padding: 5px">AAL142</td>
+      <td style="padding: 5px;text-align: right;">0.3</td>
+      <td style="padding: 5px;text-align: right;">
+        1975  [1959 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">11:45 am</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS S A S A321-271NX</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL807</td>
+      <td style="padding: 5px;text-align: right;">0.32</td>
+      <td style="padding: 5px;text-align: right;">
+        1300  [1284 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">11:46 am</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS SAS A321-253NY</td>
+      <td style="padding: 5px">American Airlines</td>
+      <td style="padding: 5px">AAL149</td>
+      <td style="padding: 5px;text-align: right;">0.6</td>
+      <td style="padding: 5px;text-align: right;">
+        1275  [1259 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">11:47 am</td>
+      <td style="padding: 5px">Business Aviation</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">PILATUS AIRCRAFT LTD PC-24</td>
+      <td style="padding: 5px">DIRECT VENTURES MANAGEMENT LLC</td>
+      <td style="padding: 5px">N231SV  </td>
+      <td style="padding: 5px;text-align: right;">0.36</td>
+      <td style="padding: 5px;text-align: right;">
+        2050  [2034 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">11:48 am</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A-380-800</td>
+      <td style="padding: 5px">Emirates</td>
+      <td style="padding: 5px">UAE204</td>
+      <td style="padding: 5px;text-align: right;">0.94</td>
+      <td style="padding: 5px;text-align: right;">
+        400  [384 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">11:54 am</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A321-231</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU1051</td>
+      <td style="padding: 5px;text-align: right;">0.67</td>
+      <td style="padding: 5px;text-align: right;">
+        1175  [1159 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">11:56 am</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 737-9GPER</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL1029</td>
+      <td style="padding: 5px;text-align: right;">0.75</td>
+      <td style="padding: 5px;text-align: right;">
+        1425  [1409 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">11:56 am</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A321-271NX</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU2201</td>
+      <td style="padding: 5px;text-align: right;">0.5</td>
+      <td style="padding: 5px;text-align: right;">
+        1225  [1209 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">11:58 am</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 737-800</td>
+      <td style="padding: 5px">Sun Country Airlines</td>
+      <td style="padding: 5px">SCX568</td>
+      <td style="padding: 5px;text-align: right;">1.35</td>
+      <td style="padding: 5px;text-align: right;">
+        325  [309 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">11:59 am</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A320-232</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU1759</td>
+      <td style="padding: 5px;text-align: right;">0.66</td>
+      <td style="padding: 5px;text-align: right;">
+        1150  [1134 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">11:59 am</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">EMBRAER-EMPRESA BRASILEIRA DE ERJ 170-200 LR</td>
+      <td style="padding: 5px">Republic Airlines</td>
+      <td style="padding: 5px">RPA4627</td>
+      <td style="padding: 5px;text-align: right;">1.18</td>
+      <td style="padding: 5px;text-align: right;">
+        1000  [984 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">12:01 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS S A S A321-271NX</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL2775</td>
+      <td style="padding: 5px;text-align: right;">0.54</td>
+      <td style="padding: 5px;text-align: right;">
+        1300  [1284 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">12:04 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">EMBRAER-EMPRESA BRASILEIRA DE ERJ 170-200 LR</td>
+      <td style="padding: 5px">Republic Airlines</td>
+      <td style="padding: 5px">RPA5711</td>
+      <td style="padding: 5px;text-align: right;">0.36</td>
+      <td style="padding: 5px;text-align: right;">
+        1700  [1684 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">12:06 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 757-231</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL363</td>
+      <td style="padding: 5px;text-align: right;">0.39</td>
+      <td style="padding: 5px;text-align: right;">
+        1400  [1384 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">12:12 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 777-200LR</td>
+      <td style="padding: 5px">Korean Air Lines</td>
+      <td style="padding: 5px">KAL250</td>
+      <td style="padding: 5px;text-align: right;">0.48</td>
+      <td style="padding: 5px;text-align: right;">
+        900  [884 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">12:20 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A321-231</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU1603</td>
+      <td style="padding: 5px;text-align: right;">0.21</td>
+      <td style="padding: 5px;text-align: right;">
+        1500  [1484 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">12:30 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS CANADA LP BD-500-1A11</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU1497</td>
+      <td style="padding: 5px;text-align: right;">0.32</td>
+      <td style="padding: 5px;text-align: right;">
+        1625  [1609 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">12:36 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A-350-900</td>
+      <td style="padding: 5px">Asiana Airlines</td>
+      <td style="padding: 5px">AAR221</td>
+      <td style="padding: 5px;text-align: right;">0.09</td>
+      <td style="padding: 5px;text-align: right;">
+        1550  [1534 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">12:44 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 737-800</td>
+      <td style="padding: 5px">American Airlines</td>
+      <td style="padding: 5px">AAL1222</td>
+      <td style="padding: 5px;text-align: right;">0.23</td>
+      <td style="padding: 5px;text-align: right;">
+        1175  [1159 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">12:47 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 737-823</td>
+      <td style="padding: 5px">American Airlines</td>
+      <td style="padding: 5px">AAL1880</td>
+      <td style="padding: 5px;text-align: right;">0.13</td>
+      <td style="padding: 5px;text-align: right;">
+        1450  [1434 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">12:48 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS INDUSTRIE A321-231</td>
+      <td style="padding: 5px">American Airlines</td>
+      <td style="padding: 5px">AAL255</td>
+      <td style="padding: 5px;text-align: right;">0.35</td>
+      <td style="padding: 5px;text-align: right;">
+        1325  [1309 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">12:50 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOMBARDIER INC CL-600-2D24</td>
+      <td style="padding: 5px">Endeavor Air</td>
+      <td style="padding: 5px">EDV5028</td>
+      <td style="padding: 5px;text-align: right;">0.1</td>
+      <td style="padding: 5px;text-align: right;">
+        1575  [1559 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">12:53 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS INDUSTRIE A321-231</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU83</td>
+      <td style="padding: 5px;text-align: right;">0.52</td>
+      <td style="padding: 5px;text-align: right;">
+        1200  [1184 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">12:54 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Arrival</td>
+      <td style="padding: 5px">BOEING 777-223</td>
+      <td style="padding: 5px">American Airlines</td>
+      <td style="padding: 5px">AAL67</td>
+      <td style="padding: 5px;text-align: right;">2.13</td>
+      <td style="padding: 5px;text-align: right;">
+        -100  [-115 ft below you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">01:02 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 737-823</td>
+      <td style="padding: 5px">American Airlines</td>
+      <td style="padding: 5px">AAL2536</td>
+      <td style="padding: 5px;text-align: right;">2.73</td>
+      <td style="padding: 5px;text-align: right;">
+        2475  [2459 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">01:03 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Arrival</td>
+      <td style="padding: 5px">AIRBUS A-330-300</td>
+      <td style="padding: 5px">Brussels Airlines</td>
+      <td style="padding: 5px">BEL501</td>
+      <td style="padding: 5px;text-align: right;">4.67</td>
+      <td style="padding: 5px;text-align: right;">
+        500  [484 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">01:08 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Arrival</td>
+      <td style="padding: 5px">BOMBARDIER INC CL-600-2D24</td>
+      <td style="padding: 5px">Endeavor Air</td>
+      <td style="padding: 5px">EDV5370</td>
+      <td style="padding: 5px;text-align: right;">3.71</td>
+      <td style="padding: 5px;text-align: right;">
+        225  [209 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">01:11 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 737-9</td>
+      <td style="padding: 5px">Alaska Airlines</td>
+      <td style="padding: 5px">ASA23</td>
+      <td style="padding: 5px;text-align: right;">0.44</td>
+      <td style="padding: 5px;text-align: right;">
+        950  [934 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">01:18 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS CANADA LP BD-500-1A11</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU1118</td>
+      <td style="padding: 5px;text-align: right;">0.32</td>
+      <td style="padding: 5px;text-align: right;">
+        1425  [1409 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">01:28 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Arrival</td>
+      <td style="padding: 5px">EMBRAER-EMPRESA BRASILEIRA DE ERJ 170-200 LR</td>
+      <td style="padding: 5px">Republic Airlines</td>
+      <td style="padding: 5px">RPA5822</td>
+      <td style="padding: 5px;text-align: right;">3.19</td>
+      <td style="padding: 5px;text-align: right;">
+        75  [59 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">01:35 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A-350-1000</td>
+      <td style="padding: 5px">Japan Airlines</td>
+      <td style="padding: 5px">JAL5</td>
+      <td style="padding: 5px;text-align: right;">0.57</td>
+      <td style="padding: 5px;text-align: right;">
+        1225  [1209 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">01:38 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 787-9 Dreamliner</td>
+      <td style="padding: 5px">El Al Israel Airlines</td>
+      <td style="padding: 5px">ELY10</td>
+      <td style="padding: 5px;text-align: right;">0.31</td>
+      <td style="padding: 5px;text-align: right;">
+        850  [834 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">01:41 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">EMBRAER-EMPRESA BRASILEIRA DE ERJ 170-200 LR</td>
+      <td style="padding: 5px">Republic Airlines</td>
+      <td style="padding: 5px">RPA5595</td>
+      <td style="padding: 5px;text-align: right;">1.03</td>
+      <td style="padding: 5px;text-align: right;">
+        1225  [1209 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">01:46 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOMBARDIER INC CL-600-2D24</td>
+      <td style="padding: 5px">Endeavor Air</td>
+      <td style="padding: 5px">EDV5296</td>
+      <td style="padding: 5px;text-align: right;">0.07</td>
+      <td style="padding: 5px;text-align: right;">
+        1650  [1634 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">01:49 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A321-271NX</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL1855</td>
+      <td style="padding: 5px;text-align: right;">0.06</td>
+      <td style="padding: 5px;text-align: right;">
+        1550  [1534 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">01:57 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A-380-800</td>
+      <td style="padding: 5px">Korean Air Lines</td>
+      <td style="padding: 5px">KAL82</td>
+      <td style="padding: 5px;text-align: right;">0.85</td>
+      <td style="padding: 5px;text-align: right;">
+        325  [309 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">01:59 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 777-300ER</td>
+      <td style="padding: 5px">Turk Hava Yollari</td>
+      <td style="padding: 5px">THY4</td>
+      <td style="padding: 5px;text-align: right;">1.01</td>
+      <td style="padding: 5px;text-align: right;">
+        300  [284 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">02:02 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOMBARDIER INC CL-600-2D24</td>
+      <td style="padding: 5px">Endeavor Air</td>
+      <td style="padding: 5px">EDV5151</td>
+      <td style="padding: 5px;text-align: right;">0.45</td>
+      <td style="padding: 5px;text-align: right;">
+        1650  [1634 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">02:03 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A321-231</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU9</td>
+      <td style="padding: 5px;text-align: right;">0.48</td>
+      <td style="padding: 5px;text-align: right;">
+        1150  [1134 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">02:04 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">EMBRAER-EMPRESA BRASILEIRA DE ERJ 170-200 LR</td>
+      <td style="padding: 5px">Republic Airlines</td>
+      <td style="padding: 5px">RPA5649 </td>
+      <td style="padding: 5px;text-align: right;">2.15</td>
+      <td style="padding: 5px;text-align: right;">
+        -100  [-115 ft below you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">02:05 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Arrival</td>
+      <td style="padding: 5px">AIRBUS A321-271NX</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU2102</td>
+      <td style="padding: 5px;text-align: right;">3.91</td>
+      <td style="padding: 5px;text-align: right;">
+        175  [159 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">02:08 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 787-8 Dreamliner</td>
+      <td style="padding: 5px">Kenya Airways</td>
+      <td style="padding: 5px">KQA3</td>
+      <td style="padding: 5px;text-align: right;">0.02</td>
+      <td style="padding: 5px;text-align: right;">
+        1300  [1284 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">02:11 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOMBARDIER INC CL-600-2D24</td>
+      <td style="padding: 5px">Endeavor Air</td>
+      <td style="padding: 5px">EDV5200</td>
+      <td style="padding: 5px;text-align: right;">0.55</td>
+      <td style="padding: 5px;text-align: right;">
+        1575  [1559 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">02:18 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 737-823</td>
+      <td style="padding: 5px">American Airlines</td>
+      <td style="padding: 5px">AAL642</td>
+      <td style="padding: 5px;text-align: right;">0.13</td>
+      <td style="padding: 5px;text-align: right;">
+        1275  [1259 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">02:23 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 777-300ER</td>
+      <td style="padding: 5px">All Nippon Airways</td>
+      <td style="padding: 5px">ANA109</td>
+      <td style="padding: 5px;text-align: right;">0.26</td>
+      <td style="padding: 5px;text-align: right;">
+        1150  [1134 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">02:31 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOMBARDIER INC CL-600-2D24</td>
+      <td style="padding: 5px">Endeavor Air</td>
+      <td style="padding: 5px">EDV5399</td>
+      <td style="padding: 5px;text-align: right;">0.11</td>
+      <td style="padding: 5px;text-align: right;">
+        1825  [1809 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">02:55 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOMBARDIER INC CL-600-2D24</td>
+      <td style="padding: 5px">Endeavor Air</td>
+      <td style="padding: 5px">EDV5328</td>
+      <td style="padding: 5px;text-align: right;">0.31</td>
+      <td style="padding: 5px;text-align: right;">
+        1600  [1584 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">03:06 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 777-300ER</td>
+      <td style="padding: 5px">Cathay Pacific Airways</td>
+      <td style="padding: 5px">CPA831</td>
+      <td style="padding: 5px;text-align: right;">0.28</td>
+      <td style="padding: 5px;text-align: right;">
+        950  [934 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">03:12 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A330-302</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL202</td>
+      <td style="padding: 5px;text-align: right;">0.57</td>
+      <td style="padding: 5px;text-align: right;">
+        1100  [1084 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">03:22 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A321-231</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU53</td>
+      <td style="padding: 5px;text-align: right;">0.03</td>
+      <td style="padding: 5px;text-align: right;">
+        1400  [1384 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">03:24 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOMBARDIER INC CL-600-2D24</td>
+      <td style="padding: 5px">Endeavor Air</td>
+      <td style="padding: 5px">EDV5301</td>
+      <td style="padding: 5px;text-align: right;">0.09</td>
+      <td style="padding: 5px;text-align: right;">
+        1600  [1584 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">03:26 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">EMBRAER-EMPRESA BRASILEIRA DE ERJ 170-200 LR</td>
+      <td style="padding: 5px">Republic Airlines</td>
+      <td style="padding: 5px">RPA5685</td>
+      <td style="padding: 5px;text-align: right;">0.32</td>
+      <td style="padding: 5px;text-align: right;">
+        1725  [1709 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">03:30 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A321-271NX</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL1996</td>
+      <td style="padding: 5px;text-align: right;">0.34</td>
+      <td style="padding: 5px;text-align: right;">
+        1350  [1334 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">03:31 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 777F</td>
+      <td style="padding: 5px">National Air Cargo Group</td>
+      <td style="padding: 5px">NCR651  </td>
+      <td style="padding: 5px;text-align: right;">0.68</td>
+      <td style="padding: 5px;text-align: right;">
+        1350  [1334 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">03:37 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 737-932ER</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL2500</td>
+      <td style="padding: 5px;text-align: right;">0.23</td>
+      <td style="padding: 5px;text-align: right;">
+        1150  [1134 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">03:43 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">EMBRAER-EMPRESA BRASILEIRA DE ERJ 170-200 LR</td>
+      <td style="padding: 5px">Republic Airlines</td>
+      <td style="padding: 5px">RPA4359</td>
+      <td style="padding: 5px;text-align: right;">0.18</td>
+      <td style="padding: 5px;text-align: right;">
+        1850  [1834 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">03:44 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS CANADA LP BD-500-1A11</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU618</td>
+      <td style="padding: 5px;text-align: right;">0.08</td>
+      <td style="padding: 5px;text-align: right;">
+        1725  [1709 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">03:45 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">EMBRAER S A ERJ 170-200 LR</td>
+      <td style="padding: 5px">Republic Airlines</td>
+      <td style="padding: 5px">RPA4397</td>
+      <td style="padding: 5px;text-align: right;">0.5</td>
+      <td style="padding: 5px;text-align: right;">
+        1650  [1634 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">03:48 pm</td>
+      <td style="padding: 5px">General Aviation</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Arrival</td>
+      <td style="padding: 5px">CESSNA 172M</td>
+      <td style="padding: 5px">ASPIRE AVIATION LLC</td>
+      <td style="padding: 5px">N64527  </td>
+      <td style="padding: 5px;text-align: right;">0.23</td>
+      <td style="padding: 5px;text-align: right;">
+        6350  [6334 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">03:50 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 737 MAX 9</td>
+      <td style="padding: 5px">Compania Panamena De Aviacion</td>
+      <td style="padding: 5px">CMP812</td>
+      <td style="padding: 5px;text-align: right;">0.09</td>
+      <td style="padding: 5px;text-align: right;">
+        1275  [1259 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">03:56 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A320-251N</td>
+      <td style="padding: 5px">Aerovias Del Continente Ame...</td>
+      <td style="padding: 5px">AVA211</td>
+      <td style="padding: 5px;text-align: right;">0.23</td>
+      <td style="padding: 5px;text-align: right;">
+        1500  [1484 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">03:57 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 737-932ER</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL1419</td>
+      <td style="padding: 5px;text-align: right;">0.24</td>
+      <td style="padding: 5px;text-align: right;">
+        1100  [1084 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">04:06 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A-350-1000</td>
+      <td style="padding: 5px">Qatar Airways Group</td>
+      <td style="padding: 5px">QTR704</td>
+      <td style="padding: 5px;text-align: right;">0.26</td>
+      <td style="padding: 5px;text-align: right;">
+        1275  [1259 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">04:11 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A330-941</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL234</td>
+      <td style="padding: 5px;text-align: right;">0.17</td>
+      <td style="padding: 5px;text-align: right;">
+        1350  [1334 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">04:15 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 737-8</td>
+      <td style="padding: 5px">American Airlines</td>
+      <td style="padding: 5px">AAL3321</td>
+      <td style="padding: 5px;text-align: right;">0.39</td>
+      <td style="padding: 5px;text-align: right;">
+        950  [934 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">04:16 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A321-271NX</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU803</td>
+      <td style="padding: 5px;text-align: right;">0.07</td>
+      <td style="padding: 5px;text-align: right;">
+        1475  [1459 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">04:18 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Unknown</td>
+      <td style="padding: 5px">BOMBARDIER INC CL-600-2D24</td>
+      <td style="padding: 5px">Endeavor Air</td>
+      <td style="padding: 5px">EDV5460 </td>
+      <td style="padding: 5px;text-align: right;">2.8</td>
+      <td style="padding: 5px;text-align: right;">
+        -100  [-115 ft below you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">04:22 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A-340-300</td>
+      <td style="padding: 5px">Deutsche Lufthansa AG Koeln</td>
+      <td style="padding: 5px">DLH401</td>
+      <td style="padding: 5px;text-align: right;">0.08</td>
+      <td style="padding: 5px;text-align: right;">
+        1000  [984 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">04:25 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A321-231</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU1201</td>
+      <td style="padding: 5px;text-align: right;">0.05</td>
+      <td style="padding: 5px;text-align: right;">
+        1550  [1534 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">04:27 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 747-8</td>
+      <td style="padding: 5px">Cathay Pacific Airways</td>
+      <td style="padding: 5px">CPA3295</td>
+      <td style="padding: 5px;text-align: right;">0.17</td>
+      <td style="padding: 5px;text-align: right;">
+        750  [734 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">04:30 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 737-832</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL1638</td>
+      <td style="padding: 5px;text-align: right;">0.26</td>
+      <td style="padding: 5px;text-align: right;">
+        1425  [1409 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">04:31 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 777-223</td>
+      <td style="padding: 5px">American Airlines</td>
+      <td style="padding: 5px">AAL94</td>
+      <td style="padding: 5px;text-align: right;">0.07</td>
+      <td style="padding: 5px;text-align: right;">
+        1175  [1159 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">04:33 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A-330-900</td>
+      <td style="padding: 5px">Italia Trasporto Aereo</td>
+      <td style="padding: 5px">ITY609</td>
+      <td style="padding: 5px;text-align: right;">0.03</td>
+      <td style="padding: 5px;text-align: right;">
+        1200  [1184 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">04:36 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A321-271NX</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL887</td>
+      <td style="padding: 5px;text-align: right;">0.11</td>
+      <td style="padding: 5px;text-align: right;">
+        1550  [1534 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">04:40 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A319-114</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL2443</td>
+      <td style="padding: 5px;text-align: right;">0.43</td>
+      <td style="padding: 5px;text-align: right;">
+        1225  [1209 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">04:45 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 777-300ER</td>
+      <td style="padding: 5px">China Eastern Airlines</td>
+      <td style="padding: 5px">CES588</td>
+      <td style="padding: 5px;text-align: right;">0.41</td>
+      <td style="padding: 5px;text-align: right;">
+        850  [834 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">04:47 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 767-332</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL365</td>
+      <td style="padding: 5px;text-align: right;">0.67</td>
+      <td style="padding: 5px;text-align: right;">
+        950  [934 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">04:49 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A-330-900</td>
+      <td style="padding: 5px">Condor Flugdienst GmbH Fran...</td>
+      <td style="padding: 5px">CFG2017</td>
+      <td style="padding: 5px;text-align: right;">0.06</td>
+      <td style="padding: 5px;text-align: right;">
+        1275  [1259 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">04:53 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A321-271NX</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL740</td>
+      <td style="padding: 5px;text-align: right;">0.02</td>
+      <td style="padding: 5px;text-align: right;">
+        1450  [1434 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">04:56 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 787-10 Dreamliner</td>
+      <td style="padding: 5px">Klm Royal Dutch Airlines</td>
+      <td style="padding: 5px">KLM642</td>
+      <td style="padding: 5px;text-align: right;">0.23</td>
+      <td style="padding: 5px;text-align: right;">
+        1025  [1009 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">04:58 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A321-231</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU2637</td>
+      <td style="padding: 5px;text-align: right;">0.07</td>
+      <td style="padding: 5px;text-align: right;">
+        1375  [1359 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">04:59 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A-330-300</td>
+      <td style="padding: 5px">Aer Lingus Teoranta</td>
+      <td style="padding: 5px">EIN104</td>
+      <td style="padding: 5px;text-align: right;">0.13</td>
+      <td style="padding: 5px;text-align: right;">
+        1325  [1309 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">05:00 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A-330-300</td>
+      <td style="padding: 5px">Swiss International Air Lines</td>
+      <td style="padding: 5px">SWR17</td>
+      <td style="padding: 5px;text-align: right;">0.49</td>
+      <td style="padding: 5px;text-align: right;">
+        1050  [1034 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">05:10 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 737-890</td>
+      <td style="padding: 5px">Alaska Airlines</td>
+      <td style="padding: 5px">ASA31</td>
+      <td style="padding: 5px;text-align: right;">0.32</td>
+      <td style="padding: 5px;text-align: right;">
+        1200  [1184 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">05:11 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOMBARDIER INC CL-600-2D24</td>
+      <td style="padding: 5px">Endeavor Air</td>
+      <td style="padding: 5px">EDV5150</td>
+      <td style="padding: 5px;text-align: right;">0.39</td>
+      <td style="padding: 5px;text-align: right;">
+        1200  [1184 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">05:12 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS INDUSTRIE A321-231</td>
+      <td style="padding: 5px">American Airlines</td>
+      <td style="padding: 5px">AAL15</td>
+      <td style="padding: 5px;text-align: right;">0.63</td>
+      <td style="padding: 5px;text-align: right;">
+        1325  [1309 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">05:13 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A-330-300</td>
+      <td style="padding: 5px">Iberia Lineas Aereas De Espana</td>
+      <td style="padding: 5px">IBE212</td>
+      <td style="padding: 5px;text-align: right;">0.16</td>
+      <td style="padding: 5px;text-align: right;">
+        1050  [1034 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">05:14 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A330-941</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL156</td>
+      <td style="padding: 5px;text-align: right;">0.43</td>
+      <td style="padding: 5px;text-align: right;">
+        1150  [1134 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">05:18 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 777-223</td>
+      <td style="padding: 5px">American Airlines</td>
+      <td style="padding: 5px">AAL66</td>
+      <td style="padding: 5px;text-align: right;">0.15</td>
+      <td style="padding: 5px;text-align: right;">
+        1125  [1109 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">05:23 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 737-8</td>
+      <td style="padding: 5px">American Airlines</td>
+      <td style="padding: 5px">AAL1386</td>
+      <td style="padding: 5px;text-align: right;">0.1</td>
+      <td style="padding: 5px;text-align: right;">
+        1275  [1259 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">05:37 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A330-323</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL182</td>
+      <td style="padding: 5px;text-align: right;">0.76</td>
+      <td style="padding: 5px;text-align: right;">
+        1425  [1409 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">05:39 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">EMBRAER ERJ 170-200 LR</td>
+      <td style="padding: 5px">Republic Airlines</td>
+      <td style="padding: 5px">RPA5798</td>
+      <td style="padding: 5px;text-align: right;">0.15</td>
+      <td style="padding: 5px;text-align: right;">
+        1700  [1684 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">05:43 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A-350-900</td>
+      <td style="padding: 5px">Deutsche Lufthansa AG Koeln</td>
+      <td style="padding: 5px">DLH411</td>
+      <td style="padding: 5px;text-align: right;">0.05</td>
+      <td style="padding: 5px;text-align: right;">
+        1375  [1359 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">05:46 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">EMBRAER ERJ 170-200 LR</td>
+      <td style="padding: 5px">Republic Airlines</td>
+      <td style="padding: 5px">RPA4804</td>
+      <td style="padding: 5px;text-align: right;">0.63</td>
+      <td style="padding: 5px;text-align: right;">
+        1625  [1609 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">05:48 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A320-232</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU2983</td>
+      <td style="padding: 5px;text-align: right;">0.02</td>
+      <td style="padding: 5px;text-align: right;">
+        1350  [1334 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">05:49 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 737-900ER</td>
+      <td style="padding: 5px">Alaska Airlines</td>
+      <td style="padding: 5px">ASA335</td>
+      <td style="padding: 5px;text-align: right;">0.26</td>
+      <td style="padding: 5px;text-align: right;">
+        1175  [1159 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">05:50 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 777-300ER</td>
+      <td style="padding: 5px">Air France</td>
+      <td style="padding: 5px">AFR3</td>
+      <td style="padding: 5px;text-align: right;">0.42</td>
+      <td style="padding: 5px;text-align: right;">
+        1450  [1434 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">05:52 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A-330-200</td>
+      <td style="padding: 5px">Italia Trasporto Aereo</td>
+      <td style="padding: 5px">ITY603</td>
+      <td style="padding: 5px;text-align: right;">0.67</td>
+      <td style="padding: 5px;text-align: right;">
+        725  [709 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">05:54 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 737-800</td>
+      <td style="padding: 5px">Westjet Airlines</td>
+      <td style="padding: 5px">WJA1681</td>
+      <td style="padding: 5px;text-align: right;">0.11</td>
+      <td style="padding: 5px;text-align: right;">
+        1200  [1184 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">05:56 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Arrival</td>
+      <td style="padding: 5px">BOEING 737-832</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL1166</td>
+      <td style="padding: 5px;text-align: right;">3.38</td>
+      <td style="padding: 5px;text-align: right;">
+        150  [134 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">06:02 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 777-223</td>
+      <td style="padding: 5px">American Airlines</td>
+      <td style="padding: 5px">AAL42</td>
+      <td style="padding: 5px;text-align: right;">0.04</td>
+      <td style="padding: 5px;text-align: right;">
+        1300  [1284 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">06:05 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A319-115</td>
+      <td style="padding: 5px">American Airlines</td>
+      <td style="padding: 5px">AAL2603</td>
+      <td style="padding: 5px;text-align: right;">0.45</td>
+      <td style="padding: 5px;text-align: right;">
+        1550  [1534 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">06:06 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 777-200</td>
+      <td style="padding: 5px">El Al Israel Airlines</td>
+      <td style="padding: 5px">ELY2</td>
+      <td style="padding: 5px;text-align: right;">0.11</td>
+      <td style="padding: 5px;text-align: right;">
+        925  [909 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">06:27 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 767-332</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL218</td>
+      <td style="padding: 5px;text-align: right;">0.13</td>
+      <td style="padding: 5px;text-align: right;">
+        1225  [1209 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">06:28 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 767-432ER</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL28</td>
+      <td style="padding: 5px;text-align: right;">0.15</td>
+      <td style="padding: 5px;text-align: right;">
+        1450  [1434 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">06:32 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A-330-300</td>
+      <td style="padding: 5px">Virgin Atlantic</td>
+      <td style="padding: 5px">VIR4</td>
+      <td style="padding: 5px;text-align: right;">0.23</td>
+      <td style="padding: 5px;text-align: right;">
+        1200  [1184 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">06:36 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A321-231</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU1801</td>
+      <td style="padding: 5px;text-align: right;">0.23</td>
+      <td style="padding: 5px;text-align: right;">
+        1775  [1759 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">06:37 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS CANADA LP BD-500-1A11</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU818</td>
+      <td style="padding: 5px;text-align: right;">0.29</td>
+      <td style="padding: 5px;text-align: right;">
+        1500  [1484 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">06:39 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A-321neo</td>
+      <td style="padding: 5px">Aer Lingus Teoranta</td>
+      <td style="padding: 5px">EIN110</td>
+      <td style="padding: 5px;text-align: right;">0.08</td>
+      <td style="padding: 5px;text-align: right;">
+        1775  [1759 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">06:40 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 777-300ER</td>
+      <td style="padding: 5px">Air France</td>
+      <td style="padding: 5px">AFR5</td>
+      <td style="padding: 5px;text-align: right;">0.13</td>
+      <td style="padding: 5px;text-align: right;">
+        1625  [1609 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">06:44 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A321-271NX</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU8550</td>
+      <td style="padding: 5px;text-align: right;">0.12</td>
+      <td style="padding: 5px;text-align: right;">
+        1600  [1584 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">06:45 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 767-332</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL232</td>
+      <td style="padding: 5px;text-align: right;">0.33</td>
+      <td style="padding: 5px;text-align: right;">
+        1675  [1659 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">07:05 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 767-332</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL244</td>
+      <td style="padding: 5px;text-align: right;">0.42</td>
+      <td style="padding: 5px;text-align: right;">
+        1850  [1834 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">07:08 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A321-231</td>
+      <td style="padding: 5px">American Airlines</td>
+      <td style="padding: 5px">AAL1174</td>
+      <td style="padding: 5px;text-align: right;">0.6</td>
+      <td style="padding: 5px;text-align: right;">
+        1975  [1959 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">07:08 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 767-332</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL78</td>
+      <td style="padding: 5px;text-align: right;">0.02</td>
+      <td style="padding: 5px;text-align: right;">
+        1425  [1409 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">07:10 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 777-200LR</td>
+      <td style="padding: 5px">Air China Cargo</td>
+      <td style="padding: 5px">CAO1050</td>
+      <td style="padding: 5px;text-align: right;">0.06</td>
+      <td style="padding: 5px;text-align: right;">
+        1450  [1434 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">07:12 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 777-300ER</td>
+      <td style="padding: 5px">British Airways</td>
+      <td style="padding: 5px">BAW174</td>
+      <td style="padding: 5px;text-align: right;">0.08</td>
+      <td style="padding: 5px;text-align: right;">
+        1725  [1709 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">07:13 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 777-300ER</td>
+      <td style="padding: 5px">Saudi Arabian Airlines</td>
+      <td style="padding: 5px">SVA20</td>
+      <td style="padding: 5px;text-align: right;">0.06</td>
+      <td style="padding: 5px;text-align: right;">
+        1325  [1309 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">07:15 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 767-432ER</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL128</td>
+      <td style="padding: 5px;text-align: right;">0.09</td>
+      <td style="padding: 5px;text-align: right;">
+        1500  [1484 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">07:17 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A-330-300</td>
+      <td style="padding: 5px">Arkia Israel Inland Airlines</td>
+      <td style="padding: 5px">AIZ992</td>
+      <td style="padding: 5px;text-align: right;">0.05</td>
+      <td style="padding: 5px;text-align: right;">
+        1275  [1259 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">07:25 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS CANADA LP BD-500-1A11</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU355</td>
+      <td style="padding: 5px;text-align: right;">0.17</td>
+      <td style="padding: 5px;text-align: right;">
+        1475  [1459 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">07:29 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOMBARDIER INC CL-600-2D24</td>
+      <td style="padding: 5px">Endeavor Air</td>
+      <td style="padding: 5px">EDV5123</td>
+      <td style="padding: 5px;text-align: right;">0.14</td>
+      <td style="padding: 5px;text-align: right;">
+        1275  [1259 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">07:30 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 777-223</td>
+      <td style="padding: 5px">American Airlines</td>
+      <td style="padding: 5px">AAL198</td>
+      <td style="padding: 5px;text-align: right;">0.04</td>
+      <td style="padding: 5px;text-align: right;">
+        1375  [1359 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">07:33 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 757-231</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL667</td>
+      <td style="padding: 5px;text-align: right;">0.03</td>
+      <td style="padding: 5px;text-align: right;">
+        1550  [1534 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">07:41 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A-330-300</td>
+      <td style="padding: 5px">Scandinavian Airlines System</td>
+      <td style="padding: 5px">SAS916</td>
+      <td style="padding: 5px;text-align: right;">0.07</td>
+      <td style="padding: 5px;text-align: right;">
+        1300  [1284 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">07:43 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 787-9</td>
+      <td style="padding: 5px">American Airlines</td>
+      <td style="padding: 5px">AAL106</td>
+      <td style="padding: 5px;text-align: right;">0.15</td>
+      <td style="padding: 5px;text-align: right;">
+        1200  [1184 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">07:46 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">EMBRAER-EMPRESA BRASILEIRA DE ERJ 170-200 LR</td>
+      <td style="padding: 5px">Republic Airlines</td>
+      <td style="padding: 5px">RPA4454</td>
+      <td style="padding: 5px;text-align: right;">0.22</td>
+      <td style="padding: 5px;text-align: right;">
+        1575  [1559 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">07:47 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A321-271NX</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU1965</td>
+      <td style="padding: 5px;text-align: right;">0.09</td>
+      <td style="padding: 5px;text-align: right;">
+        1425  [1409 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">08:07 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A321-271NX</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU1407</td>
+      <td style="padding: 5px;text-align: right;">0.05</td>
+      <td style="padding: 5px;text-align: right;">
+        1500  [1484 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">08:08 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 777-300ER</td>
+      <td style="padding: 5px">Air France</td>
+      <td style="padding: 5px">AFR390V</td>
+      <td style="padding: 5px;text-align: right;">0.65</td>
+      <td style="padding: 5px;text-align: right;">
+        1675  [1659 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">08:11 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A321-271NX</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL1859</td>
+      <td style="padding: 5px;text-align: right;">0.09</td>
+      <td style="padding: 5px;text-align: right;">
+        1400  [1384 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">08:12 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS SAS A330-941</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL272</td>
+      <td style="padding: 5px;text-align: right;">0.17</td>
+      <td style="padding: 5px;text-align: right;">
+        1375  [1359 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">08:14 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 737-900ER</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL1414</td>
+      <td style="padding: 5px;text-align: right;">0.26</td>
+      <td style="padding: 5px;text-align: right;">
+        1225  [1209 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">08:15 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS S A S A321-271NX</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL1740</td>
+      <td style="padding: 5px;text-align: right;">0.14</td>
+      <td style="padding: 5px;text-align: right;">
+        1500  [1484 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">08:16 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 777-200</td>
+      <td style="padding: 5px">British Airways</td>
+      <td style="padding: 5px">BAW176</td>
+      <td style="padding: 5px;text-align: right;">0.21</td>
+      <td style="padding: 5px;text-align: right;">
+        1325  [1309 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">08:20 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 787-8 Dreamliner</td>
+      <td style="padding: 5px">Linea Aerea Nacional De Chile</td>
+      <td style="padding: 5px">LAN533</td>
+      <td style="padding: 5px;text-align: right;">0.13</td>
+      <td style="padding: 5px;text-align: right;">
+        1025  [1009 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">08:21 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A-350-900</td>
+      <td style="padding: 5px">Turk Hava Yollari</td>
+      <td style="padding: 5px">THY2</td>
+      <td style="padding: 5px;text-align: right;">0.15</td>
+      <td style="padding: 5px;text-align: right;">
+        1275  [1259 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">08:25 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A-350-1000</td>
+      <td style="padding: 5px">Virgin Atlantic</td>
+      <td style="padding: 5px">VIR128</td>
+      <td style="padding: 5px;text-align: right;">0.46</td>
+      <td style="padding: 5px;text-align: right;">
+        1375  [1359 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">08:27 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A330-223</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL1</td>
+      <td style="padding: 5px;text-align: right;">0.17</td>
+      <td style="padding: 5px;text-align: right;">
+        1200  [1184 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">08:35 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Arrival</td>
+      <td style="padding: 5px">AIRBUS A321-231</td>
+      <td style="padding: 5px">American Airlines</td>
+      <td style="padding: 5px">AAL2459</td>
+      <td style="padding: 5px;text-align: right;">2.95</td>
+      <td style="padding: 5px;text-align: right;">
+        0  [-15 ft below you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">08:36 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Arrival</td>
+      <td style="padding: 5px">AIRBUS SAS A321-253NY</td>
+      <td style="padding: 5px">American Airlines</td>
+      <td style="padding: 5px">AAL16</td>
+      <td style="padding: 5px;text-align: right;">2.85</td>
+      <td style="padding: 5px;text-align: right;">
+        0  [-15 ft below you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">08:37 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 767-432ER</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL126</td>
+      <td style="padding: 5px;text-align: right;">0.19</td>
+      <td style="padding: 5px;text-align: right;">
+        1425  [1409 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">08:39 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 767-306</td>
+      <td style="padding: 5px">Abx Air</td>
+      <td style="padding: 5px">ABX4106</td>
+      <td style="padding: 5px;text-align: right;">2.47</td>
+      <td style="padding: 5px;text-align: right;">
+        -50  [-65 ft below you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">08:42 pm</td>
+      <td style="padding: 5px">Any Aircraft</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px"></td>
+      <td style="padding: 5px">---</td>
+      <td style="padding: 5px">---</td>
+      <td style="padding: 5px"></td>
+      <td style="padding: 5px;text-align: right;"></td>
+      <td style="padding: 5px;text-align: right;">
+        
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">08:43 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 787-9 Dreamliner</td>
+      <td style="padding: 5px">TAM Linhas Aereas</td>
+      <td style="padding: 5px">TAM8181</td>
+      <td style="padding: 5px;text-align: right;">0.07</td>
+      <td style="padding: 5px;text-align: right;">
+        1225  [1209 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">08:45 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 777-300ER</td>
+      <td style="padding: 5px">Singapore Airlines Limited</td>
+      <td style="padding: 5px">SIA25</td>
+      <td style="padding: 5px;text-align: right;">0.55</td>
+      <td style="padding: 5px;text-align: right;">
+        825  [809 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">08:47 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A-330-300</td>
+      <td style="padding: 5px">Swiss International Air Lines</td>
+      <td style="padding: 5px">SWR15</td>
+      <td style="padding: 5px;text-align: right;">0.07</td>
+      <td style="padding: 5px;text-align: right;">
+        1200  [1184 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">08:50 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 777-300ER</td>
+      <td style="padding: 5px">British Airways</td>
+      <td style="padding: 5px">BAW116</td>
+      <td style="padding: 5px;text-align: right;">0.08</td>
+      <td style="padding: 5px;text-align: right;">
+        1650  [1634 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">08:51 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A330-323</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL266</td>
+      <td style="padding: 5px;text-align: right;">0.05</td>
+      <td style="padding: 5px;text-align: right;">
+        1400  [1384 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">08:54 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Arrival</td>
+      <td style="padding: 5px">AIRBUS CANADA LP BD-500-1A11</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU476</td>
+      <td style="padding: 5px;text-align: right;">3.12</td>
+      <td style="padding: 5px;text-align: right;">
+        75  [59 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">08:57 pm</td>
+      <td style="padding: 5px">Any Aircraft</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px"></td>
+      <td style="padding: 5px">---</td>
+      <td style="padding: 5px">---</td>
+      <td style="padding: 5px"></td>
+      <td style="padding: 5px;text-align: right;"></td>
+      <td style="padding: 5px;text-align: right;">
+        
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">08:58 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 787-9</td>
+      <td style="padding: 5px">American Airlines</td>
+      <td style="padding: 5px">AAL951</td>
+      <td style="padding: 5px;text-align: right;">0.06</td>
+      <td style="padding: 5px;text-align: right;">
+        1225  [1209 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">08:59 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Unknown</td>
+      <td style="padding: 5px">AIRBUS SAS A321-253NY</td>
+      <td style="padding: 5px">American Airlines</td>
+      <td style="padding: 5px">AAL82   </td>
+      <td style="padding: 5px;text-align: right;">2.86</td>
+      <td style="padding: 5px;text-align: right;">
+        -75  [-90 ft below you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:01 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A321-231</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU2725 </td>
+      <td style="padding: 5px;text-align: right;">2.94</td>
+      <td style="padding: 5px;text-align: right;">
+        -50  [-65 ft below you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:03 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 787-9 Dreamliner</td>
+      <td style="padding: 5px">Royal Air Maroc Compagnie N...</td>
+      <td style="padding: 5px">RAM201</td>
+      <td style="padding: 5px;text-align: right;">0.13</td>
+      <td style="padding: 5px;text-align: right;">
+        1150  [1134 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:05 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A-330-900</td>
+      <td style="padding: 5px">Virgin Atlantic</td>
+      <td style="padding: 5px">VIR154</td>
+      <td style="padding: 5px;text-align: right;">0.04</td>
+      <td style="padding: 5px;text-align: right;">
+        1425  [1409 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:07 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 737 MAX 9</td>
+      <td style="padding: 5px">Icelandair</td>
+      <td style="padding: 5px">ICE614</td>
+      <td style="padding: 5px;text-align: right;">0.19</td>
+      <td style="padding: 5px;text-align: right;">
+        925  [909 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:08 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A321-271NX</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU1223</td>
+      <td style="padding: 5px;text-align: right;">0.16</td>
+      <td style="padding: 5px;text-align: right;">
+        1450  [1434 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:09 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A-330-200</td>
+      <td style="padding: 5px">Iberia Lineas Aereas De Espana</td>
+      <td style="padding: 5px">IBE326</td>
+      <td style="padding: 5px;text-align: right;">1.59</td>
+      <td style="padding: 5px;text-align: right;">
+        -25  [-40 ft below you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:11 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 787-9</td>
+      <td style="padding: 5px">American Airlines</td>
+      <td style="padding: 5px">AAL292  </td>
+      <td style="padding: 5px;text-align: right;">1.52</td>
+      <td style="padding: 5px;text-align: right;">
+        -25  [-40 ft below you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:13 pm</td>
+      <td style="padding: 5px">Any Aircraft</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px"></td>
+      <td style="padding: 5px">---</td>
+      <td style="padding: 5px">---</td>
+      <td style="padding: 5px"></td>
+      <td style="padding: 5px;text-align: right;"></td>
+      <td style="padding: 5px;text-align: right;">
+        
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:13 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Unknown</td>
+      <td style="padding: 5px">BOEING 737-9</td>
+      <td style="padding: 5px">Alaska Airlines</td>
+      <td style="padding: 5px">ASA17   </td>
+      <td style="padding: 5px;text-align: right;">2.81</td>
+      <td style="padding: 5px;text-align: right;">
+        -100  [-115 ft below you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:15 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS INDUSTRIE A321-231</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU283</td>
+      <td style="padding: 5px;text-align: right;">0.17</td>
+      <td style="padding: 5px;text-align: right;">
+        1925  [1909 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:21 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 737-8</td>
+      <td style="padding: 5px">American Airlines</td>
+      <td style="padding: 5px">AAL1922</td>
+      <td style="padding: 5px;text-align: right;">0.13</td>
+      <td style="padding: 5px;text-align: right;">
+        1425  [1409 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:23 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A-330-900</td>
+      <td style="padding: 5px">Italia Trasporto Aereo</td>
+      <td style="padding: 5px">ITY611</td>
+      <td style="padding: 5px;text-align: right;">0.4</td>
+      <td style="padding: 5px;text-align: right;">
+        1250  [1234 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:25 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 767-332</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL288</td>
+      <td style="padding: 5px;text-align: right;">0.05</td>
+      <td style="padding: 5px;text-align: right;">
+        1550  [1534 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:26 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOMBARDIER INC CL-600-2D24</td>
+      <td style="padding: 5px">Endeavor Air</td>
+      <td style="padding: 5px">EDV4946</td>
+      <td style="padding: 5px;text-align: right;">0.91</td>
+      <td style="padding: 5px;text-align: right;">
+        1275  [1259 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:27 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOMBARDIER INC CL-600-2D24</td>
+      <td style="padding: 5px">Endeavor Air</td>
+      <td style="padding: 5px">EDV4659</td>
+      <td style="padding: 5px;text-align: right;">0.21</td>
+      <td style="padding: 5px;text-align: right;">
+        1825  [1809 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:28 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 767-432ER</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL262</td>
+      <td style="padding: 5px;text-align: right;">0.3</td>
+      <td style="padding: 5px;text-align: right;">
+        1925  [1909 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:30 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS CANADA LP BD-500-1A11</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU2768</td>
+      <td style="padding: 5px;text-align: right;">2.21</td>
+      <td style="padding: 5px;text-align: right;">
+        150  [134 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:32 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS S A S A321-271NX</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU73</td>
+      <td style="padding: 5px;text-align: right;">0.12</td>
+      <td style="padding: 5px;text-align: right;">
+        1525  [1509 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:33 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A321-271NX</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU841</td>
+      <td style="padding: 5px;text-align: right;">0.17</td>
+      <td style="padding: 5px;text-align: right;">
+        1575  [1559 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:34 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOMBARDIER INC CL-600-2D24</td>
+      <td style="padding: 5px">Endeavor Air</td>
+      <td style="padding: 5px">EDV5326</td>
+      <td style="padding: 5px;text-align: right;">0.02</td>
+      <td style="padding: 5px;text-align: right;">
+        1700  [1684 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:35 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 737-832</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL2639</td>
+      <td style="padding: 5px;text-align: right;">0.14</td>
+      <td style="padding: 5px;text-align: right;">
+        1700  [1684 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:37 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A-330-300</td>
+      <td style="padding: 5px">Aer Lingus Teoranta</td>
+      <td style="padding: 5px">EIN106  </td>
+      <td style="padding: 5px;text-align: right;">1.76</td>
+      <td style="padding: 5px;text-align: right;">
+        -50  [-65 ft below you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:39 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 787-10 Dreamliner</td>
+      <td style="padding: 5px">Klm Royal Dutch Airlines</td>
+      <td style="padding: 5px">KLM644</td>
+      <td style="padding: 5px;text-align: right;">1.89</td>
+      <td style="padding: 5px;text-align: right;">
+        -50  [-65 ft below you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:40 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 767-332</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL208</td>
+      <td style="padding: 5px;text-align: right;">0.15</td>
+      <td style="padding: 5px;text-align: right;">
+        1825  [1809 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:42 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 787-9</td>
+      <td style="padding: 5px">American Airlines</td>
+      <td style="padding: 5px">AAL236</td>
+      <td style="padding: 5px;text-align: right;">0.09</td>
+      <td style="padding: 5px;text-align: right;">
+        1175  [1159 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:44 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS INDUSTRIE A321-231</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU937</td>
+      <td style="padding: 5px;text-align: right;">0.18</td>
+      <td style="padding: 5px;text-align: right;">
+        1375  [1359 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:45 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOMBARDIER INC CL-600-2D24</td>
+      <td style="padding: 5px">Endeavor Air</td>
+      <td style="padding: 5px">EDV5394</td>
+      <td style="padding: 5px;text-align: right;">0.09</td>
+      <td style="padding: 5px;text-align: right;">
+        1775  [1759 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:46 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A321-271NX</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU7</td>
+      <td style="padding: 5px;text-align: right;">0.06</td>
+      <td style="padding: 5px;text-align: right;">
+        1450  [1434 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:47 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 777-300ER</td>
+      <td style="padding: 5px">Air France</td>
+      <td style="padding: 5px">AFR7</td>
+      <td style="padding: 5px;text-align: right;">0.3</td>
+      <td style="padding: 5px;text-align: right;">
+        1475  [1459 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:50 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A320-232</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU1516</td>
+      <td style="padding: 5px;text-align: right;">0.24</td>
+      <td style="padding: 5px;text-align: right;">
+        1525  [1509 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:51 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 777-200LR</td>
+      <td style="padding: 5px">China Southern Airlines Cargo</td>
+      <td style="padding: 5px">CSG2544</td>
+      <td style="padding: 5px;text-align: right;">0.5</td>
+      <td style="padding: 5px;text-align: right;">
+        2325  [2309 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:52 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 787-9 Dreamliner</td>
+      <td style="padding: 5px">Air New Zealand</td>
+      <td style="padding: 5px">ANZ1</td>
+      <td style="padding: 5px;text-align: right;">0.06</td>
+      <td style="padding: 5px;text-align: right;">
+        1000  [984 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:54 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Unknown</td>
+      <td style="padding: 5px">BOMBARDIER INC CL-600-2D24</td>
+      <td style="padding: 5px">Endeavor Air</td>
+      <td style="padding: 5px">EDV5170 </td>
+      <td style="padding: 5px;text-align: right;">2.58</td>
+      <td style="padding: 5px;text-align: right;">
+        -75  [-90 ft below you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">09:57 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">BOEING 767-332</td>
+      <td style="padding: 5px">Delta Air Lines</td>
+      <td style="padding: 5px">DAL52</td>
+      <td style="padding: 5px;text-align: right;">0.14</td>
+      <td style="padding: 5px;text-align: right;">
+        1550  [1534 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">10:02 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A320-232</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU820</td>
+      <td style="padding: 5px;text-align: right;">0.14</td>
+      <td style="padding: 5px;text-align: right;">
+        1850  [1834 ft above you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">10:39 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Departure</td>
+      <td style="padding: 5px">AIRBUS A321-231</td>
+      <td style="padding: 5px">Jetblue Airways Corporation</td>
+      <td style="padding: 5px">JBU923</td>
+      <td style="padding: 5px;text-align: right;">2.62</td>
+      <td style="padding: 5px;text-align: right;">
+        -75  [-90 ft below you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">11:00 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Unknown</td>
+      <td style="padding: 5px">BOMBARDIER INC CL-600-2D24</td>
+      <td style="padding: 5px">Endeavor Air</td>
+      <td style="padding: 5px">EDV5264 </td>
+      <td style="padding: 5px;text-align: right;">2.83</td>
+      <td style="padding: 5px;text-align: right;">
+        -100  [-115 ft below you]
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 5px">11:09 pm</td>
+      <td style="padding: 5px">Commercial</td>
+      <td style="padding: 5px">KJFK</td>
+      <td style="padding: 5px">Arrival</td>
+      <td style="padding: 5px">BOEING 737 MAX 8</td>
+      <td style="padding: 5px">Caribbean Airlines Limited</td>
+      <td style="padding: 5px">BWA526</td>
+      <td style="padding: 5px;text-align: right;">2.58</td>
+      <td style="padding: 5px;text-align: right;">
+        -50  [-65 ft below you]
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<p>
+  You can view your Airnoise complaints on your
+    <a href="https://u5008648.ct.sendgrid.net/ls/click?upn=u001.-2F7-2BiDNnkGvpFI3xUYaT-2B1qUEUZzY3sQS6QzuA7kaQ5BwZOAgzmiY4kkFHVqEgSQOR59C_m62Kq-2BZVlqTCB7tW71uBlxjrJQC4A0Qm52DNLPpUNnFiJsAPt1i60KRjSiaaK-2BaIx15LRmuvE9FoqCaB5LCQNKFFiTsqn-2FAhqvY-2FAlW3DfLFgUa3S3b2js1hX9jHcqwcC8e4FGm4u-2Br23HtZQdgJ6HJzVeR8OB3xPN1DQUxz489c6N2rLACOB6X1Smp7chwoDwu-2B0T5jEajO9lp4ycEFtg-3D-3D">Airnoise dashboard</a>.
+</p>
+<p>
+  You can <b>opt-out</b> of receiving this email in your
+    <a href="https://u5008648.ct.sendgrid.net/ls/click?upn=u001.-2F7-2BiDNnkGvpFI3xUYaT-2B1kGhSPlH-2BF25mQw-2Fso2XCqKA8yHNX1EdbefbrpvLFjk5gjMu69P14mcF4k7lgIjfLQ-3D-3DEAbc_m62Kq-2BZVlqTCB7tW71uBlxjrJQC4A0Qm52DNLPpUNnFiJsAPt1i60KRjSiaaK-2BaIx15LRmuvE9FoqCaB5LCQNLCBJqOdWqDHVGN5R4BCUJQ-2FaLxcLG2Ktv41btHDTYXJHbKHM-2BB0aCXLKBdNP0SNePc-2B5MElHAX666vSS0XKdeVv8S4-2BBX1Mv5xGJoNHzrAmEPdbd-2BVHK2aWFHiC5hw-2BYA-3D-3D">Complaint Settings</a>.
+</p>
+
+<p>Thank you for using Airnoise.io.</p>
+
+
+  <img src="https://u5008648.ct.sendgrid.net/wf/open?upn=u001.cFY7wDZ0h-2BYIGSQKMbTkd-2BMcwxrUhFxSIu2DUXqhszyPLAPHp1d88wPl4U5W5PtGxlk8BmQdSk2Q3niLbnZsfxD1ciOQHp9f061jscEJovyHODTQXpptc7kScv4I0qLYzZ1BkRCo44ycRMtVntrl-2FSOyAUDdXivLkGJdTryu-2FcLGSgQdv69fMgmQi5VrY4-2Btldbp5V1VqkTm6Wc2u-2BaOTgWDs9YYybQuGXv493JRQw4-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/></body>
+</html>
